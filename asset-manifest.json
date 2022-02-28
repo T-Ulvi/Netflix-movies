@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Netflix-movies/static/css/main.035bb616.css",
-    "main.js": "/Netflix-movies/static/js/main.939c4562.js",
+    "main.js": "/Netflix-movies/static/js/main.c7216629.js",
     "static/media/bg-hero.jpg": "/Netflix-movies/static/media/bg-hero.ba2208c06571d60ecebb.jpg",
     "static/media/profileKid.png": "/Netflix-movies/static/media/profileKid.7e9c0c2fccea936cef07.png",
     "static/media/Laptop.png": "/Netflix-movies/static/media/Laptop.8e6539e8bfc6937a0648.png",
@@ -9,10 +9,10 @@
     "index.html": "/Netflix-movies/index.html",
     "static/media/logo.svg": "/Netflix-movies/static/media/logo.5787551b8de42aef368c379572555ada.svg",
     "main.035bb616.css.map": "/Netflix-movies/static/css/main.035bb616.css.map",
-    "main.939c4562.js.map": "/Netflix-movies/static/js/main.939c4562.js.map"
+    "main.c7216629.js.map": "/Netflix-movies/static/js/main.c7216629.js.map"
   },
   "entrypoints": [
     "static/css/main.035bb616.css",
-    "static/js/main.939c4562.js"
+    "static/js/main.c7216629.js"
   ]
 }
